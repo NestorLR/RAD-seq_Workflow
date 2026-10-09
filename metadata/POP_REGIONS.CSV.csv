@@ -1,0 +1,281 @@
+Population,Range,Country,Region,Latitude,Longitude
+ARMLOR,Non-native,Armenia,Armenia-Iran,40.83,44.559
+ARMVDZ,Non-native,Armenia,Armenia-Iran,39.741,45.349
+ARMYER,Non-native,Armenia,Armenia-Iran,40.21,44.558
+KURKER,Non-native,Iran - Kurdistan,Armenia-Iran,34.305,47.038
+KURMAR,Non-native,Iran - Kurdistan,Armenia-Iran,35.548,46.147
+KURSAN,Non-native,Iran - Kurdistan,Armenia-Iran,35.28,46.995
+DENAAR,Non-native,Denmark,Baltic Europe,56.131,10.149
+DENMUN,Non-native,Denmark,Baltic Europe,56.301,9.658
+CEUAAS,Non-native,Germany,Baltic Europe,54.391,12.439
+CEUFOR,Non-native,Germany,Baltic Europe,53.399,12.801
+SWEALM,Non-native,Sweden,Baltic Europe,56.552,14.165
+SWEHAS,Non-native,Sweden,Baltic Europe,56.169,13.814
+SWELAH,Non-native,Sweden,Baltic Europe,56.446,12.921
+POLTOR,Non-native,Poland,Baltic Europe,52.999,18.606
+FINJOU,Non-native,Finland,Baltic Europe,61.141,28.488
+FINSAL,Non-native,Finland,Baltic Europe,60.388,23.099
+FINTUR,Non-native,Finland,Baltic Europe,60.443,22.212
+LITPAB,Non-native,Lithuania,Baltic Europe,55.03,25.698
+LITVAS,Non-native,Lithuania,Baltic Europe,54.35,24.574
+ESTPAR,Non-native,Estonia,Baltic Europe,58.388,24.507
+ESTRAK,Non-native,Estonia,Baltic Europe,59.355,26.345
+ESTTAR,Non-native,Estonia,Baltic Europe,58.393,26.712
+RALBER,Non-native,Switzerland,Central Europe,46.866,7.364
+RALGEN,Non-native,Switzerland,Central Europe,46.185,6.153
+RALGRE,Non-native,France,Central Europe,45.19,5.815
+ALPDAV,Non-native,Switzerland,Central Europe,46.81,9.843
+ALPFIL,Non-native,Switzerland,Central Europe,46.674,9.679
+ALPSTA,Non-native,Switzerland,Central Europe,46.776,10.252
+CEUGIE,Non-native,Germany,Central Europe,50.607,8.653955
+CEUPLA,Non-native,Germany,Central Europe,51.325,12.323
+CEUPRA,Non-native,Czech Republic,Central Europe,49.999,14.406
+CEUTHO,Non-native,Germany,Central Europe,48.966,8.504
+HALISA,Non-native,Germany,Central Europe,51.483,11.96
+HUNBAL,Non-native,Hungary,Central Europe,46.793,17.712
+HUNMAR,Non-native,Hungary,Central Europe,45.879,18.249
+HUNRAC,Non-native,Hungary,Central Europe,47.026,18.918
+HUNHER,Non-native,Hungary,Central Europe,48.255,20.648
+HUNKAZ,Non-native,Hungary,Central Europe,48.255,20.648
+HUNROH,Non-native,Hungary,Central Europe,48.016,22.141
+KOSMIR,Non-native,Kosovo,Central Europe,42.849,20.908
+KOSPEJ,Non-native,Kosovo,Central Europe,42.703,20.317
+ROMHAL,Non-native,Romania,Central Europe,47.59,23.031
+ROMHER,Non-native,Romania,Central Europe,44.86,22.403
+ROMMUR,Non-native,Romania,Central Europe,46.231,24.975
+ROMIAS,Non-native,Romania,Central Europe,47.18042,27.54991
+ROMPIE,Non-native,Romania,Central Europe,45.711,27.121
+ROMTIF,Non-native,Romania,Central Europe,45.867,27.097
+UKRHOL,Non-native,Ukraine,Central Europe,49.435,27.458
+UKRKAM,Non-native,Ukraine,Central Europe,49.293,25.603
+UKRLVI,Non-native,Ukraine,Central Europe,49.792,23.978
+IDAPOC,Native,USA - Idaho,Central US,42.866,-112.429
+OKLELR,Native,USA - Oklahoma,Central US,35.528,-98.188
+OKLNOR,Native,USA - Oklahoma,Central US,35.2,-97.461
+OKLSHA,Native,USA - Oklahoma,Central US,35.351,-97.071
+NEBCAR,Native,USA - Nebraska,Central US,40.307,-97.677
+NEBCRE,Native,USA - Nebraska,Central US,42.437,-97.894
+NEBHAV,Native,USA - Nebraska,Central US,40.861,-96.594
+NEBLIN,Native,USA - Nebraska,Central US,40.893,-96.571
+NEBNOR,Native,USA - Nebraska,Central US,41.046,-100.746
+NEBOMA,Native,USA - Nebraska,Central US,41.296,-96.196
+SDABRO,Native,USA - South Dakota,Central US,44.313,-96.728
+KANLAW,Native,USA - Kansas,Central US,38.955,-95.271
+KANSAL,Native,USA - Kansas,Central US,38.957,-97.557
+MINFAI,Native,USA - Minnesota,Central US,43.608,-94.481
+MINMAN,Native,USA - Minnesota,Central US,44.187,-94.007
+MISCAH,Native,USA - Missouri,Central US,38.66,-90.076
+MISEUR,Native,USA - Missouri,Central US,38.526,-90.56
+MISSLO,Native,USA - Missouri,Central US,38.684,-90.36
+MINSTA,Native,USA - Mississippi,Central US,33.444,-88.795
+KENCAR,Native,USA - Kentucky,Central US,38.324,-84.087
+KENGEO,Native,USA - Kentucky,Central US,38.101,-84.512
+KENSTA,Native,USA - Kentucky,Central US,37.542,-84.655
+GANLON,Non-native,China - Gansu,China,34.971,104.688
+GANPIN,Non-native,China - Gansu,China,35.458,106.905
+GANQIN,Non-native,China - Gansu,China,34.844,105.655
+NCCMEI,Non-native,China - Shaanxi,China,34.306,107.734
+NCCSHU,Non-native,China - Shaanxi,China,34.241,108.401
+NCCYAN,Non-native,China - Shaanxi,China,34.235,108.05
+NCCZHO,Non-native,China - Shaanxi,China,34.45,107.597
+SCCAOQ,Non-native,China - Hunan,China,25.935,112.563
+SCCCJC,Non-native,China - Hunan,China,26.046,112.432
+SCCQUA,Non-native,China - Hunan,China,29.445,112.762
+SCCXIS,Non-native,China - Jiangxi,China,29.115,117.954
+SCCZHU,Non-native,China - Hunan,China,29.298,112.691
+NEWGEN,Native,USA - New York,East Coast,42.866,-76.98
+NEWWNY,Native,USA - New York,East Coast,42.336,-77.333
+ECOEAS,Native,USA - Maryland,East Coast,38.745,-76.07
+ECOMID,Native,USA - Delaware,East Coast,39.441,-75.743
+ECOPHI,Native,USA - Pennsylvania,East Coast,39.973,-75.117
+MASNEW,Native,USA - Massachusetts,East Coast,42.337,-71.209
+QUEEDM,Native,Canada - New Brunswick,East Coast,47.375,-68.301
+QUELAB,Native,Canada - Québec,East Coast,46.911,-71.322
+QUELAP,Native,Canada - Québec,East Coast,47.376,-69.968
+NOSCOR,Native,Canada - Nova Scotia,East Coast,44.453,-64.418
+NOSKEA,Native,Canada - Nova Scotia,East Coast,44.695,-63.705
+NOSMAI,Native,Canada - Nova Scotia,East Coast,44.651,-63.652
+NOSMUS,Native,Canada - Nova Scotia,East Coast,44.776,-63.177
+BELVEJ,Non-native,Russia- Belgorod,Eastern Europe,50.123,38.45
+BELBEL,Non-native,Russia- Belgorod,Eastern Europe,50.61,36.54
+MRUGOD,Non-native,Russia - Nizhny Novgorod,Eastern Europe,56.687,43.424
+MRUMOS,Non-native,Russia - Moscow,Eastern Europe,55.829,37.701
+MRUSUZ,Non-native,Russia - Vladimir,Eastern Europe,56.431,40.442
+MRUZVE,Non-native,Russia - Moscow,Eastern Europe,55.771,36.806
+SRUEGI,Non-native,Russia - Ingushetia,Eastern Europe,42.876,44.93
+SRUPYA,Non-native,Russia - Stavropol,Eastern Europe,44.062,43.055
+SRUVED,Non-native,Russia - Chechnya,Eastern Europe,42.697,45.573
+VOLELA,Non-native,Russia - Tatarstan,Eastern Europe,55.792,52.207
+VOLKVA,Non-native,Russia - Saratov,Eastern Europe,52.489,48.11
+VOLMAM,Non-native,Russia - Nizhny Novgorod,Eastern Europe,55.195,45.921
+VOLMIP,Non-native,Russia - Nizhny Novgorod,Eastern Europe,55.09,45.973
+VOLNIZ,Non-native,Russia - Tatarstan,Eastern Europe,55.711,48.952
+VOLRYB,Non-native,Russia - Tatarstan,Eastern Europe,55.45,50.299
+VOLSAR,Non-native,Russia - Mordovia,Eastern Europe,54.15,45.168
+VOLSYZ,Non-native,Russia - Samara,Eastern Europe,53.175,48.544
+VOLTOG,Non-native,Russia - Samara,Eastern Europe,53.473,49.563
+VOLTSI,Non-native,Russia - Chuvashia,Eastern Europe,55.89,47.435
+VOLYOS,Non-native,Russia - Mari El,Eastern Europe,56.484,48.041
+UFABEZ,Non-native,Russia - Bashkortostan,Eastern Europe,54.583,55.858
+UFAGUR,Non-native,Russia - Bashkortostan,Eastern Europe,54.954,55.686
+GREAPY,Non-native,Greece,Eastern Mediterranean,40.592,22.971
+GREKVO,Non-native,Greece,Eastern Mediterranean,40.188,23.805
+GREPAL,Non-native,Greece,Eastern Mediterranean,40.783,22.253
+EGYALE,Non-native,Egypt,Eastern Mediterranean,31,29.729
+EGYFAY,Non-native,Egypt,Eastern Mediterranean,30.267,32.369
+EGYISM,Non-native,Egypt,Eastern Mediterranean,30.619,32.273
+TURARS,Non-native,Turkey,Eastern Mediterranean,37.786,27.307
+TURBAL,Non-native,Turkey,Eastern Mediterranean,37.861,27.785
+TURSOG,Non-native,Turkey,Eastern Mediterranean,37.935,28.375
+TURGIR,Non-native,Turkey,Eastern Mediterranean,40.969,38.621
+TURORD,Non-native,Turkey,Eastern Mediterranean,40.977,37.977
+TURTRA,Non-native,Turkey,Eastern Mediterranean,41.046,39.244
+JORIRB,Non-native,Jordan,Eastern Mediterranean,32.483,35.984
+JORMAL,Non-native,Jordan,Eastern Mediterranean,32.649,35.722
+JORSAR,Non-native,Jordan,Eastern Mediterranean,32.159,35.998
+JORSHA,Non-native,Jordan,Eastern Mediterranean,32.055,35.929
+SAUALB,Non-native,Saudi Arabia,Eastern Mediterranean,19.998,41.464
+SAUBAL,Non-native,Saudi Arabia,Eastern Mediterranean,19.849,41.58
+SAUFAI,Non-native,Saudi Arabia,Eastern Mediterranean,17.246,43.088
+AMUCHU,Non-native,Russia - Amur,Far East Asia,50.153,128.201
+AMUKAN,Non-native,Russia - Amur,Far East Asia,50.193,127.63
+AMUNOV,Non-native,Russia - Amur,Far East Asia,50.497,127.529
+AMUSWO,Non-native,Russia - Amur,Far East Asia,51.345,127.95
+FRUANI,Non-native,Russia - Primorye,Far East Asia,43.176,132.798
+FRUBUK,Non-native,Russia - Primorye,Far East Asia,42.606,131.22
+FRUVLA,Non-native,Russia - Primorye,Far East Asia,43.197,131.92
+BEJCHP,Non-native,China - Beijing,Far East Asia,40.154,116.251
+BEJFGH,Non-native,China - Beijing,Far East Asia,39.753,116.01
+BEJTON,Non-native,China - Beijing,Far East Asia,39.893,116.702
+JILANT,Non-native,China - Jilin,Far East Asia,42.409,128.116
+JILCHA,Non-native,China - Jilin,Far East Asia,43.866,125.35
+JILSON,Non-native,China - Jilin,Far East Asia,44.579,123.558
+HAIDAQ,Non-native,China - Heilongjiang,Far East Asia,46.189,124.819
+HEIHAR,Non-native,China - Heilongjiang,Far East Asia,45.72,126.639
+HEITAH,Non-native,China - Heilongjiang,Far East Asia,52.425,125.242
+HEIYIC,Non-native,China - Heilongjiang,Far East Asia,47.722,128.885
+JAPKYO,Non-native,Japan,Far East Asia,35.017,135.586
+JAPNAG,Non-native,Japan,Far East Asia,36.222,138.484
+JAPOKA,Non-native,Japan,Far East Asia,34.671,133.957
+JAPTOK,Non-native,Japan,Far East Asia,35.652,139.457
+JAPYAM,Non-native,Japan,Far East Asia,35.736,138.714
+HOKDAT,Non-native,Japan - Hokkaido,Far East Asia,42.489,140.834
+HOKFUR,Non-native,Japan - Hokkaido,Far East Asia,43.221,142.436
+HOKTOM,Non-native,Japan - Hokkaido,Far East Asia,42.581,141.427
+ILLCHI,Native,USA - Illinois,Great Lakes,41.857,-87.68
+ILLNAP,Native,USA - Illinois,Great Lakes,41.778,-88.178
+INDGAR,Native,USA - Indiana,Great Lakes,41.621,-87.224
+MICANN,Native,USA - Michigan,Great Lakes,42.293,-83.812
+OHIEAG,Native,USA - Ohio,Great Lakes,41.289,-81.057
+OHIMED,Native,USA - Ohio,Great Lakes,41.157,-81.833
+OHIMEN,Native,USA - Ohio,Great Lakes,41.73,-81.32
+OHITRB,Native,USA - Ohio,Great Lakes,41.209,-80.526
+PENBRO,Native,USA - Pennsylvania,Great Lakes,41.804,-77.083
+PENCHA,Native,USA - Pennsylvania,Great Lakes,40.64,-77.953
+PENCLI,Native,USA - Pennsylvania,Great Lakes,41.033,-77.516
+PENLAT,Native,USA - Pennsylvania,Great Lakes,40.32,-79.381
+PENNKE,Native,USA - Pennsylvania,Great Lakes,40.589,-79.757
+PENPIT,Native,USA - Pennsylvania,Great Lakes,40.457,-79.909
+ONTFIN,Native,Canada - Ontario,Great Lakes,42.648,-81.355
+ONTRID,Native,Canada - Ontario,Great Lakes,42.449,-81.881
+ONTSAR,Native,Canada - Ontario,Great Lakes,42.99,-82.342
+NWUALB,Native,USA - Montana,Intermountain US,47.017,-114.514
+NWUBOZ,Native,USA - Montana,Intermountain US,45.415,-111.031
+NWUBUT,Native,USA - Montana,Intermountain US,45.591,-112.321
+NWUSMA,Native,USA - Idaho,Intermountain US,47.313,-116.56
+IDABON,Native,USA - Idaho,Intermountain US,43.552,-112.033
+COLBOU,Native,USA - Colorado,Intermountain US,40.034,-105.29
+COLDEN,Native,USA - Colorado,Intermountain US,39.776,-105.157
+COLFAL,Native,USA - Colorado,Intermountain US,38.94,-104.578
+COLFOR,Native,USA - Colorado,Intermountain US,40.563,-105.037
+COLPUE,Native,USA - Colorado,Intermountain US,38.333,-104.626
+BICANA,Native,Canada - British Columbia,Intermountain US,49.012,-119.354
+BICCLW,Native,Canada - British Columbia,Intermountain US,51.64,-120.018
+BICCST,Native,Canada - British Columbia,Intermountain US,50.223,-119.24
+UZBASU,Non-native,Uzbekistan,Middle Asia,41.368,69.339
+UZBCHU,Non-native,Uzbekistan,Middle Asia,41.07,71.352
+UZBESK,Non-native,Uzbekistan,Middle Asia,40.92,71.141
+UZBGAL,Non-native,Uzbekistan,Middle Asia,41.54,69.857
+UZBSAM,Non-native,Uzbekistan,Middle Asia,39.648,66.965
+UZBTAS,Non-native,Uzbekistan,Middle Asia,41.341,69.317
+KASGAN,Non-native,Kashmir,Middle Asia,34.216,74.771
+KASHAZ,Non-native,Kashmir,Middle Asia,34.118,74.835
+KASSON,Non-native,Kashmir,Middle Asia,34.269,75.154
+KASSOP,Non-native,Kashmir,Middle Asia,34.537,74.725
+KAZEST,Non-native,Kazakhstan,Middle Asia,52.279,76.972
+KAZPAV,Non-native,Kazakhstan,Middle Asia,52.29,76.934
+KZHALM,Non-native,Kazakhstan,Middle Asia,43.221,76.921
+KZHAVA,Non-native,Kazakhstan,Middle Asia,43.395,77.261
+KZHIAK,Non-native,Kazakhstan,Middle Asia,43.251,77.473
+XINHUT,Non-native,China - Xinjiang,Middle Asia,44.178,86.963
+XINSAE,Non-native,China - Xinjiang,Middle Asia,43.471,87.278
+XINXIN,Non-native,China - Xinjiang,Middle Asia,43.937,87.432
+NDAMEL,Native,USA - North Dakota,North US Prairies,47.904,-98.114
+NDATRU,Native,USA - North Dakota,North US Prairies,46.982,-96.882
+ALBCZR,Native,Canada - Alberta,North US Prairies,52.376,-110.781
+ALBEDM,Native,Canada - Alberta,North US Prairies,53.522,-113.508
+SASPAL,Native,Canada - Saskatchewan,North US Prairies,53.221,-105.715
+SASREG,Native,Canada - Saskatchewan,North US Prairies,50.418,-104.616
+MANWIN,Native,Canada - Manitoba,North US Prairies,49.894,-97.123
+WASOLY,Native,USA - Washington,Pacific Coast,47.053,-122.912
+WASPEN,Native,USA - Washington,Pacific Coast,46.535,-117.777
+WASSTE,Native,USA - Washington,Pacific Coast,45.617,-122.043
+WASVAN,Native,USA - Washington,Pacific Coast,45.7,-122.731
+OREPOM,Native,USA - Oregon,Pacific Coast,45.456,-118.965
+ORESAL,Native,USA - Oregon,Pacific Coast,44.925,-123.072
+BICPAV,Native,Canada - British Columbia,Pacific Coast,49.307,-124.323
+OMSNOV,Non-native,Siberia - Omsk,Siberia,54.837,73.372
+OMSOKT,Non-native,Siberia - Omsk,Siberia,55.001,73.368
+OMSTRO,Non-native,Siberia - Omsk,Siberia,54.878,73.332
+SIBACZ,Non-native,Russia - Altai,Siberia,52.159,79.711
+SIBBAR,Non-native,Russia - Altai,Siberia,53.341,83.776
+SIBNOV,Non-native,Russia - Novosibirsk,Siberia,54.837,83.104
+IRKBEL,Non-native,Russia - Irkutsk,Siberia,52.812,103.532
+IRKCHE,Non-native,Russia - Irkutsk,Siberia,53.009,103.043
+IRKMAM,Non-native,Russia - Irkutsk,Siberia,52.288,104.133
+ALAMON,Native,USA - Alabama,South-Eastern US,32.365,-86.147
+ALATUS,Native,USA - Alabama,South-Eastern US,32.472,-85.69
+ALAVER,Native,USA - Alabama,South-Eastern US,32.741,-86.527
+SCAABV,Native,USA - South Carolina,South-Eastern US,34.205,-82.412
+SCACLE,Native,USA - South Carolina,South-Eastern US,34.668,-82.894
+SCAGRE,Native,USA - South Carolina,South-Eastern US,34.768,-82.357
+FLOBIV,Native,USA - Florida,South-Eastern US,29.627,-82.353
+FLOCIT,Native,USA - Florida,South-Eastern US,29.414,-82.148
+FLOGAI,Native,USA - Florida,South-Eastern US,29.615,-82.34
+FLOOCA,Native,USA - Florida,South-Eastern US,29.207,-82.151
+MEXPED,Native,Mexico,South-Western North America,19.321,-99.194
+CALBOD,Native,USA - California,South-Western North America,38.306,-123.058
+CALDAV,Native,USA - California,South-Western North America,38.539,-121.779
+CALLIV,Native,USA - California,South-Western North America,37.656,-121.727
+CALNAP,Native,USA - California,South-Western North America,38.368,-122.34
+SABLOM,Native,USA - California,South-Western North America,34.695,-120.365
+SABOXN,Native,USA - California,South-Western North America,34.163,-119.06
+SABSAB,Native,USA - California,South-Western North America,34.403,-119.698
+UTAMOR,Native,USA - Utah,South-Western North America,41.075,-111.722
+UTASPV,Native,USA - Utah,South-Western North America,40.145,-111.611
+UTATRM,Native,USA - Utah,South-Western North America,41.72,-112.141
+ARZLEM,Native,USA - Arizona,South-Western North America,32.45,-110.783
+ARZNAU,Native,USA - Arizona,South-Western North America,35.192,-111.654
+ARZSWE,Native,USA - Arizona,South-Western North America,32.279,-111.024
+ENGCAM,Non-native,England,Western Europe,52.168,0.1102
+ENGLIN,Non-native,England,Western Europe,53.227,-0.549
+FRABAY,Non-native,France,Western Europe,43.494,-1.491
+FRAGIR,Non-native,France,Western Europe,45.031,0.477
+FRASAN,Non-native,France,Western Europe,46.571,0.433
+PORPED,Non-native,Portugal,Western Mediterranean,39.91,-8.952
+SPACAS,Non-native,Spain,Western Mediterranean,37.391,-6.326
+SPAELE,Non-native,Spain,Western Mediterranean,37.499,-4.217
+SPAFRO,Non-native,Spain,Western Mediterranean,37.2,-6.915
+MORMAR,Non-native,Morocco,Western Mediterranean,35.625,-5.274
+MORTAN,Non-native,Morocco,Western Mediterranean,35.777,-5.798
+MORTAZ,Non-native,Morocco,Western Mediterranean,34.265,-3.966
+SARARB,Non-native,Italy - Sardinia,Western Mediterranean,39.776,8.576
+SARBAD,Non-native,Italy - Sardinia,Western Mediterranean,40.96,8.782
+SARPLA,Non-native,Italy - Sardinia,Western Mediterranean,40.82,8.516
+TUNAGB,Non-native,Tunisia,Western Mediterranean,35.761,10.827
+TUNBIR,Non-native,Tunisia,Western Mediterranean,36.42,10.568
+TUNSUD,Non-native,Tunisia,Western Mediterranean,35.798,10.66
+TUNTUN,Non-native,Tunisia,Western Mediterranean,36.807,10.193
+ITALAT,Non-native,Italy,Western Mediterranean,41.45,12.876
+ITAPOG,Non-native,Italy,Western Mediterranean,42.246,12.635
+ITAROM,Non-native,Italy,Western Mediterranean,41.815,12.454
