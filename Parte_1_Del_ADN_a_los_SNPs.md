@@ -32,6 +32,7 @@ Llamado de SNPs
 Filtrado
  ↓
 VCF
+```
 
 Utilizaremos los datos generados en el artículo de [Lucas et al., 2026](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.70368) para replicar parcialmente los principales resultados. Este estudio analizó las poblaciones de **Erigeron canadensis** (Asteraceae) nativas e invasoras usando genómica de poblaciones y genómica del paisaje.  
 
@@ -162,6 +163,9 @@ bin/03-b-Stacks_denovo-assembly.sh
 ### 1.5.3 Paso 3
 
 Generamos el archivo VCF
+
 ```bash
 bin/03-c-Stacks_populations.sh
 ```
+
+## Fin

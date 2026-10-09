@@ -62,6 +62,12 @@ conda install -c conda-forge -c bioconda \
     admixture \
     r-base
 ```
+y
+
+```bash
+conda install -c conda-forge -c bioconda stacks=2.68
+```
+
 ## 0.5 Instalar paqueterías de R
 
 ```bash

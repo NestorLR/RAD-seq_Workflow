@@ -4,8 +4,10 @@ Este repositorio documenta el flujo de trabajo bioinformático utilizando SNPs p
 
 
 ## Estructura del repositorio
-El material del curso estará organizado de la sigueinte manera:
+El material del curso estará organizado de la siguiente manera:
 
+
+```text
 RAD-seq_Workflow/
 │
 ├── README.md
@@ -16,11 +18,14 @@ RAD-seq_Workflow/
 │
 ├── data/
 │   ├── raw/
-│   ├── metadata/
+│   ├── processed/
 │   └── reference/
-│
+|
+├── metadata/│
+|
 ├── bin/
-│   ├── 01_fastqc.sh
+│   ├── 01-Get-data.sh
+|   ├── _fastqc.sh
 │   ├── 02_stacks.sh
 │   ├── 03_vcf_inspection.sh
 │   ├── 04_PCA.R
@@ -37,3 +42,4 @@ RAD-seq_Workflow/
 └── figures/
     ├── expected/
     └── paper/
+```
