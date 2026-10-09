@@ -1,0 +1,5 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	ERR15191538_1	/home/unam/Escritorio/RAD-seq_Workflow/data/processed/fastqc/ERR15191538_1_fastqc.zip
+FastQC	all_sections	ERR15191538_2	/home/unam/Escritorio/RAD-seq_Workflow/data/processed/fastqc/ERR15191538_2_fastqc.zip
+FastQC	all_sections	ERR15191667_1	/home/unam/Escritorio/RAD-seq_Workflow/data/processed/fastqc/ERR15191667_1_fastqc.zip
+FastQC	all_sections	ERR15191667_2	/home/unam/Escritorio/RAD-seq_Workflow/data/processed/fastqc/ERR15191667_2_fastqc.zip
