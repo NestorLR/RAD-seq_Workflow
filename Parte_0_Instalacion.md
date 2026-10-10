@@ -23,9 +23,6 @@ Durante la práctica utilizaremos principalmente:
 | FastQC | Evaluar la calidad de las lecturas FASTQ |
 | MultiQC | Resumir los resultados de control de calidad |
 | Stacks | Procesamiento de datos RAD-seq y generación de SNPs |
-| BCFtools | Inspección y manipulación de archivos VCF |
-| PLINK | Conversión y manejo de datos genotípicos |
-| ADMIXTURE | Estimar estructura genética |
 | R | Análisis estadísticos y visualización |
 | RStudio (opcional) | Interfaz gráfica para trabajar en R |
 
@@ -57,9 +54,6 @@ conda install -c conda-forge -c bioconda \
     fastqc \
     multiqc \
     stacks \
-    bcftools \
-    plink \
-    admixture \
     r-base
 ```
 y
@@ -72,7 +66,7 @@ conda install -c conda-forge -c bioconda stacks=2.68
 
 ```bash
 conda install -c conda-forge \
-    r-vcfr \
+    r-vcfR \
     r-adegenet \
     r-hierfstat \
     r-vegan \
@@ -80,6 +74,9 @@ conda install -c conda-forge \
     r-dplyr \
     r-tidyr \
     r-readr \
+    r-stringr \
+    r-scatterpie \
+    r-maps \
     r-ape
 ```
 
@@ -109,8 +106,8 @@ q()
 
 ```
 
-NOTA: 
-En mi máquina, no pude cargar adegent la primera vez debido a una discordancia con la versión de una paquetería necesaria. Tuve que instalar la versión que el sistema requería:
+**NOTA:** 
+En mi computadora, no pude cargar adegent la primera vez debido a una discordancia con la versión de una paquetería necesaria. Tuve que instalar la versión que el sistema requería:
 ```bash
 conda install -c conda-forge "r-stringi=1.7.12"
 ```
