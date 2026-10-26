@@ -37,7 +37,7 @@ Utilizaremos los datos generados en el artículo de Lucas et al. (2026), *Popula
 
 El estudio analizó 640 individuos de **_Erigeron canadensis_** (Asteraceae), una especie de planta herbácea con un área de distribución nativa amplia en Norteamérica y con poblaciones no nativas establecidas en Eurasia. Los autores emplearon herramientas de genómica de poblaciones y genómica del paisaje para investigar sus patrones de variación genética y su historia demográfica.
 
-![E. canadensis](figures/Erigeron_canadensis.png)
+![E. canadensis](figures/Erigeron_canadensis.jpg)
 
 Artículo: [Lucas et al. (2026)](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.70368)
 
