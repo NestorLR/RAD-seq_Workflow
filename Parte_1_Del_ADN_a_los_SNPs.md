@@ -309,7 +309,7 @@ for sample in ERR15191538 ERR15191667; do
                 next
             }
             { print }
-        ' | gzip -c > "data/stacks_paired_fixed/${sample}.${mate}.fq.gz"
+        ' | gzip -c > "data/stacks/process_radtags_fixed/${sample}.${mate}.fq.gz"
     done
 done
 ```
