@@ -83,9 +83,11 @@ A diferencia de otros enfoques de representación de genomas reducidos que utili
 Artículo: [Andrews et al. (2016)](https://www.nature.com/articles/nrg.2015.28#MOESM13)
 
 
-    Pregunta: ¿Por qué puede ser útil estudiar solamente una fracción del genoma en lugar de secuenciar el genoma completo de todos los individuos?
 
-#### Diseño expermiental del artículo de Lucas et al. (2026):
+Pregunta: ¿Por qué puede ser útil estudiar solamente una fracción del genoma en lugar de secuenciar el genoma completo de todos los individuos?
+
+
+#### Diseño experimental del artículo de Lucas et al. (2026):
 "We used a modified version of the ddRADseq protocol of Peterson et al. (2012) to construct reduced-representation libraries of genomic DNA for the genotyping of single nucleotide polymorphisms (SNPs) as described in Durka et al. (2025). In short, approximately 200 ng of DNA from each sample was digested with EcoRI-HF and MspI using Cutsmart buffer (NEB). Custom-barcoded adapters were then ligated to restriction fragments. Groups of 96 samples, each with a unique barcode, were pooled, purified with the Promega-Wizard Gel and PCR Clean-up Kit, and size-selected using the BluePippin (Sage Science) electrophoresis platform to select target fragments of 350 to 450 bp in length. Unique external indices were added to each pool through PCR amplification. The PCR products were purified with the Promega Clean-up kit and AMPure XP beads. Fragment sizes were verified on an Agilent 2100 Bioanalyzer. Libraries were then pooled in equimolar quantities and sequenced using the Illumina NovaSeq 6000 Sequencing System with 10% PhiX."
 
 
