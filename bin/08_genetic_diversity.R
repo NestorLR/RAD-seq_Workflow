@@ -1,4 +1,3 @@
-```r
 ################################################################################
 # Population genomics of a cosmopolitan weed provides insights into its
 # local adaptation and recent demographic history
@@ -251,4 +250,3 @@ cat(
   "Suma de poblaciones entre regiones:",
   sum(diversity_region$n_populations), "\n"
 )
-```
