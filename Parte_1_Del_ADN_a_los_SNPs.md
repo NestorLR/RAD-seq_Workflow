@@ -223,7 +223,13 @@ Ejecuta el análisis:
 bash bin/02-Quality.Control.sh
 ```
 
-Después, localiza y abre el reporte HTML de MultiQC generado por el script.
+Después, desde una terminal de tu computadora local, copia el reporte y visualízalo: 
+
+```bash
+scp 'lab13@132.248.216.138:/home/lab13/RAD-seq_Workflow/data/processed/multiqc/*.html' .
+```
+
+
 
 ### 1.6.2. ¿Cómo interpretar el reporte?
 
