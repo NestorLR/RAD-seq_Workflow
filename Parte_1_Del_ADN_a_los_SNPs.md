@@ -78,6 +78,10 @@ En esta práctica trabajaremos específicamente con **ddRAD-seq** (*double-diges
 
 A diferencia de otros enfoques de representación de genomas reducidos que utilizan una sola enzima para definir los sitios de restricción, ddRAD-seq utiliza una combinación de dos enzimas. Esto permite definir los extremos de los fragmentos recuperados y seleccionar una fracción del genoma mediante criterios como el tamaño de los fragmentos.
 
+![Flujo experimental de ddRAD-seq](figures/ddradseq.png)
+
+Artículo: [Andrews et al. (2016)](https://www.nature.com/articles/nrg.2015.28#MOESM13)
+
 
     Pregunta: ¿Por qué puede ser útil estudiar solamente una fracción del genoma en lugar de secuenciar el genoma completo de todos los individuos?
 
