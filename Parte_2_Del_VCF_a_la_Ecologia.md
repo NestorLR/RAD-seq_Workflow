@@ -233,15 +233,11 @@ intercambiables.
 
 Los indicadores incluidos son heterocigosidad observada (`Ho`),
 heterocigosidad esperada (`He`), coeficiente de endogamia (`Fis`) y
-riqueza alélica (`Ar`). La diversidad nucleotídica no se debe presentar
-como resultado de este script a menos que se calcule por separado.
+riqueza alélica (`Ar`).
 
 ### Qué reportaron los autores
 
-Lucas et al. (2026) encontraron valores bajos de diversidad a escala poblacional y valores relativamente altos de `FIS`. No detectaron diferencias significativas entre rangos nativo y no nativo para `Ho`, `He`, `FIS` o riqueza alélica mediante las pruebas t descritas en el artículo. Este resultado muestra que, en sus datos y con esos
-estimadores, no se detectaron diferencias estadísticas entre rangos; no
-demuestra que ambos rangos sean idénticos ni descarta efectos
-demográficos de las introducciones.
+Lucas et al. (2026) encontraron valores bajos de diversidad a escala poblacional y valores relativamente altos de `FIS`. No detectaron diferencias significativas entre rangos nativo y no nativo para `Ho`, `He`, `FIS` o riqueza alélica mediante las pruebas t descritas en el artículo. Este resultado muestra que, en sus datos y con esos estimadores, no se detectaron diferencias estadísticas entre rangos; no demuestra que ambos rangos sean idénticos ni descarta efectos demográficos de las introducciones.
 
 ### Cómo interpretar nuestros resultados
 
@@ -267,11 +263,6 @@ Ejecuta:
 ``` bash
 Rscript bin/09_enviromental_PCA.R
 ```
-
-La PCA ambiental se calcula con `Bio01`--`Bio19`. Como estas variables
-tienen escalas y correlaciones diferentes, el script estandariza las
-variables antes de ejecutar el PCA.
-
 
 ### Qué resultados se generarán y cómo interpretarlos
 
@@ -322,7 +313,7 @@ genética total, respectivamente. Al superponer la ancestría, los autores
 observaron patrones compatibles con asociaciones entre algunos
 componentes y gradientes geográficos o climáticos. Interpretaron estos
 patrones en el contexto de la historia demográfica y la dispersión, sin
-atribuir toda la estructura a selección ambiental.
+atribuir toda la estructura a la selección ambiental.
 
 ### Cómo interpretar nuestro resultado
 
@@ -332,14 +323,6 @@ dependen del orden de los predictores, mientras que las marginales
 evalúan cada término condicionado a los demás. Revisa la colinealidad
 entre predictores y la construcción de la matriz genética antes de
 interpretar los vectores como asociaciones biológicas independientes.
-
-En particular, comprueba que la matriz pasada a `capscale()` representa
-de forma apropiada los genotipos o frecuencias alélicas y que la
-distancia Bray--Curtis es adecuada para esa representación. Una inercia
-imaginaria negativa importante indica que la matriz de distancias no es
-completamente euclidiana y merece una evaluación de sensibilidad. No
-compares directamente porcentajes de ejes entre nuestro análisis y el
-artículo si las matrices, predictores o procedimientos no son idénticos.
 
 ### Preguntas de interpretación
 
