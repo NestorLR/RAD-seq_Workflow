@@ -299,7 +299,7 @@ mkdir -p data/stacks/process_radtags_fixed
 
 for sample in ERR15191538 ERR15191667; do
     for mate in 1 2; do
-        zcat "data/stacks/${sample}.${mate}.fq.gz" |
+        zcat "data/stacks/process_radtags/${sample}.${mate}.fq.gz" |
         awk -v mate="$mate" '
             NR % 4 == 1 {
                 id = $1
