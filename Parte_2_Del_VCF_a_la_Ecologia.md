@@ -99,7 +99,7 @@ Revisemos la tabla de metadata en R:
 ```R
 # Importar metadatos
 metadata <- read.csv(
-  "data/processed/Erigeron_canadensis_metadata_students.csv",
+  "data/published/Erigeron_canadensis_metadata_students.csv",
   check.names = FALSE,
   stringsAsFactors = FALSE
 )
