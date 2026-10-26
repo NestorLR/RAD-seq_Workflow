@@ -395,6 +395,12 @@ Este script toma como entrada los resultados del ensamblaje y el archivo que aso
 
 VCF (*Variant Call Format*) es un formato de archivo utilizado para almacenar variantes genéticas y los genotipos de los individuos.
 
+
+![Formato VCF](figures/vcf_format.png)
+
+[Más información](https://davetang.github.io/learning_vcf_file/)
+
+
 Entre sus campos se encuentran:
 
 - `CHROM`: identificador de la secuencia o región.
